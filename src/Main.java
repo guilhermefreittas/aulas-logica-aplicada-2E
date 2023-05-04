@@ -3,6 +3,8 @@ public class Main {
 
         //aula introdutória de Orientação à Objetos
 
+        Pessoa adao = new Pessoa();
+
 
 
 
