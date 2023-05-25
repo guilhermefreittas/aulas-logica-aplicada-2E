@@ -23,6 +23,7 @@ public class Main {
         //Definir comportamento do objeto
         rainha.falar();
         System.out.println(rainha.falar("alto"));
+        rainha.comer();
 
 
 
